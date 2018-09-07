@@ -1,0 +1,15 @@
+
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/detail/mouse">
+            <rect id="Rectangle-Copy-11" fill="#A0F0ED" x="0" y="0" width="96" height="96" rx="8"></rect>
+            <rect id="Rectangle-4-Copy-12" fill="#64D5CA" x="17" y="77" width="60" height="7" rx="3.5"></rect>
+            <path d="M42,18 L54,18 C60.627417,18 66,23.372583 66,30 L66,54 C66,63.9411255 57.9411255,72 48,72 L48,72 C38.0588745,72 30,63.9411255 30,54 L30,30 C30,23.372583 35.372583,18 42,18 Z" id="Combined-Shape-Copy-9" fill="#38A89D"></path>
+            <rect id="Rectangle-5" fill="#20504F" x="30" y="39" width="36" height="4"></rect>
+            <rect id="Rectangle-5-Copy" fill="#20504F" x="46" y="23" width="4" height="12"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-55.000000, -506.000000)">
+            <rect id="Rectangle-Copy-10" fill="#A0F0ED" x="55" y="506" width="96" height="96" rx="8"></rect>
+            <rect id="Rectangle-4-Copy-10" fill="#64D5CA" x="73" y="581" width="60" height="7" rx="3.5"></rect>
+            <path d="M103.4761,584.032984 L76.7072176,557.264102 C69.0975941,549.654479 69.0975941,537.316841 76.7072176,529.707218 C84.0756524,522.338783 95.8771398,522.105239 103.526588,529.006585 C111.17746,522.154158 122.9414,522.403636 130.292782,529.755018 C137.902406,537.364642 137.902406,549.702279 130.292782,557.311902 L121.107154,566.497531 C120.881287,566.723398 120.642923,566.929153 120.394289,567.114795 L103.4761,584.032984 Z" id="Combined-Shape-Copy-7" fill="#38A89D"></path>
+            <rect id="Rectangle-4-Copy-11" fill="#64D5CA" x="83" y="534" width="15" height="13" rx="6.5"></rect>
+            <polygon id="Combined-Shape-Copy-8" fill="#20504F" transform="translate(102.213203, 551.213203) rotate(-45.000000) translate(-102.213203, -551.213203) " points="105.213203 557.213203 105.213203 569.213203 99.2132034 569.213203 99.2132034 557.213203 90.2132034 557.213203 102.213203 533.213203 114.213203 557.213203"></polygon>
+        </g>
+    </g>
+</svg>
