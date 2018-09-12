@@ -26,6 +26,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       filename: 'index.html',
       template: 'src/index.html',
+    },{
+      filename: 'warrenfauvel.html',
+      template: 'src/warrenfauvel.html',
     }),
   ],
 }
