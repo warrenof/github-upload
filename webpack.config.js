@@ -31,13 +31,11 @@ module.exports = {
         filename: 'warrenfauvel.html',
         template: 'src/warrenfauvel.html',
       }),
-    new CopyWebpackPlugin([
-      {
-        from: 'assets',
-        to: 'dist/assets',
+    new CopyWebpackPlugin([{
+        from: 'src/assets',
+        to: 'assets',
         toType: 'dir'
-      }
-    ],)
+      }])
   ],
 
 }
